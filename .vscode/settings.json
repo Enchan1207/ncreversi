@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cfg": "dotenv",
+        "locale": "cpp",
+        "iosfwd": "cpp",
+        "string": "cpp"
+    }
+}
