@@ -6,7 +6,7 @@
 #define SIMPLE_REVERSI_GAME_H
 
 #include <cstdint>
-#include <reversi.hpp>
+#include <flipstone/reversi.hpp>
 
 #include "player.hpp"
 #include "screen.hpp"

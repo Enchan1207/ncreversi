@@ -29,5 +29,5 @@ target_compile_options(ncreversi PRIVATE
 )
 target_link_libraries(ncreversi PRIVATE
     ncurses
-    reversi
+    flipstone
 )

@@ -8,7 +8,7 @@
 #include <ncurses.h>
 
 #include <cstdint>
-#include <reversi.hpp>
+#include <flipstone/reversi.hpp>
 
 #define CUSTOM_COLOR(n) static_cast<uint8_t>(n)
 #define CUSTOM_COLOR_PAIR(n) COLOR_PAIR(CUSTOM_COLOR(n))
