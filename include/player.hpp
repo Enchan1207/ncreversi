@@ -7,7 +7,7 @@
 
 #include <ncurses.h>
 
-#include <reversi.hpp>
+#include <flipstone/reversi.hpp>
 
 #include "screen.hpp"
 
